@@ -1,0 +1,19 @@
+{
+  "name": "clean-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotunes23/clean-react.git"
+  },
+  "author": "Jonatas Antunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotunes23/clean-react/issues"
+  },
+  "homepage": "https://github.com/jotunes23/clean-react#readme"
+}
